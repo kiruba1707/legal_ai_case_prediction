@@ -1,0 +1,12 @@
+,case_id,court,judge_name,case_type,filing_date,decision_date,sections_involved,num_hearings,petitioner_type,respondent_type,case_description,outcome
+count,20000,20000,20000,20000,20000,20000,20000.0,20000.0,20000,20000,20000,20000.0
+unique,20000,4,53,5,3990,4635,,,4,4,756,
+top,C00000,Supreme Court,Justice R. Pillai,Corporate,2016-03-20,2021-07-08,,,NGO,Company,"Constitutional matter concerning writ of mandamus against state action, invoking 1 section(s) under the Right to Information Act. The dispute was examined on the basis of pleadings, documentary evidence, and applicable statutory provisions relevant to constitutional law.",
+freq,1,5059,1018,4051,14,16,,,5095,5055,55,
+mean,,,,,,,5.01975,19.97145,,,,0.5
+std,,,,,,,2.5916395905465643,11.238102582063497,,,,0.5000125004687695
+min,,,,,,,1.0,1.0,,,,0.0
+25%,,,,,,,3.0,10.0,,,,0.0
+50%,,,,,,,5.0,20.0,,,,0.5
+75%,,,,,,,7.0,30.0,,,,1.0
+max,,,,,,,9.0,39.0,,,,1.0
